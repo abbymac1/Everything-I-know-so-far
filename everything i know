@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
+<head> 
+<h1>
+Animals!
+</h1>
+</head>
 <body>
-<head> Animals!<head>
 <p>There are animals of all different types and all are special and unique.</p>
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FToys-Funcorn-Realistic-Educational-Classrooms%2Fdp%2FB075F7T2MT&psig=AOvVaw1XDuCF_8Jvvr0KW5lZWg1D&ust=1631654820416000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCL5ojy_PICFQAAAAAdAAAAABAD">
+<img src= "https://m.media-amazon.com/images/I/81Z-X70jlvl._AC_SL1500_.jpg">
 <br>
 <p>There are mammals, fish, reptiles, birds and more</p> 
 <p>Humans are <strong>mammals</strong> because we have hair and we give birth which are things all <strong>mammals</strong> have in common</p>
